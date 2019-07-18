@@ -1,0 +1,15 @@
+Current Time: 2019-07-17 09:45:51
+Time of Earliest Wifi Probe Data: 2019-07-17 09:45:45
+Time: 2019-07-17 09:45:51    Mac Address:    Manufacturer: Apple, Inc.	SSID:
+
+Time: 2019-07-17 09:45:50    Mac Address:     Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-17 09:45:49    Mac Address:    Manufacturer: Apple, Inc.	SSID:
+
+Time: 2019-07-17 09:45:49    Mac Address:     Manufacturer: SAMSUNG ELECTRO-MECHANICS(THAILAND)	SSID: 
+
+Time: 2019-07-17 09:45:48    Mac Address:     Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-17 09:45:46    Mac Address:    Manufacturer: UNKNOWN	SSID: 
+Time: 2019-07-17 09:45:45    Mac Address:     Manufacturer: Texas Instruments	SSID: 
+

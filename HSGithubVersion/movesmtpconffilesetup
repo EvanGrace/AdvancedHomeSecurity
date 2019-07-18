@@ -1,0 +1,2 @@
+cp ~/AdvancedHomeSecurity/ourSsmtp.conf ~/AdvancedHomeSecurity/ssmtp.conf
+sudo mv ~/AdvancedHomeSecurity/ssmtp.conf /etc/ssmtp/ssmtp.conf

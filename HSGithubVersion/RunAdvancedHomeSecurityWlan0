@@ -1,0 +1,5 @@
+#This will run the program
+
+sudo python ../probemon/probemon.py -i wlan0mon -t unix -f -s -o importProbemon/currentProbemonOutput &
+python PIRMotionDetection.py
+

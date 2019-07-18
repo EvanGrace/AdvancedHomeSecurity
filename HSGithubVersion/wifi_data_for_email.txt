@@ -1,0 +1,408 @@
+Current Time: 2019-07-11 11:11:31
+Time of Earliest Wifi Probe Data: 2019-07-11 11:11:16
+Time: 2019-07-11 11:11:31    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:31    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:31    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:31    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:31    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:31    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:31    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:31    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:11:31    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:11:31    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:11:31    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:11:31    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:11:31    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:11:31    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:11:31    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:11:31    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:11:31    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:11:31    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:11:31    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:11:31    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:11:31    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:11:31    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:11:30    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:11:30    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:11:30    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:11:30    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:11:30    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:11:30    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:11:30    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:11:30    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:11:30    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:11:30    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:11:30    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:11:30    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:11:30    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:11:20    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:19    Mac Address: 22:21:84:2c:4e:a4    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:19    Mac Address: 22:21:84:2c:4e:a4    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:19    Mac Address: 6c:76:60:5a:06:f1    Manufacturer: KYOCERA Corporation	SSID: 
+
+Time: 2019-07-11 11:11:19    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:19    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:19    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:19    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:17    Mac Address: 6c:76:60:5a:06:f1    Manufacturer: KYOCERA Corporation	SSID: 
+
+Time: 2019-07-11 11:11:19    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:19    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:18    Mac Address: 22:21:84:2c:4e:a4    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:18    Mac Address: 22:21:84:2c:4e:a4    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:18    Mac Address: 22:21:84:2c:4e:a4    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:18    Mac Address: 22:21:84:2c:4e:a4    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:18    Mac Address: 22:21:84:2c:4e:a4    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:18    Mac Address: 22:21:84:2c:4e:a4    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:18    Mac Address: 22:21:84:2c:4e:a4    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:18    Mac Address: 22:21:84:2c:4e:a4    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:18    Mac Address: 22:21:84:2c:4e:a4    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:18    Mac Address: 22:21:84:2c:4e:a4    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:18    Mac Address: 22:21:84:2c:4e:a4    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:18    Mac Address: 22:21:84:2c:4e:a4    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:17    Mac Address: 6c:76:60:5a:06:f1    Manufacturer: KYOCERA Corporation	SSID: 
+
+Time: 2019-07-11 11:11:17    Mac Address: 6c:76:60:5a:06:f1    Manufacturer: KYOCERA Corporation	SSID: 
+
+Time: 2019-07-11 11:11:17    Mac Address: 6c:76:60:5a:06:f1    Manufacturer: KYOCERA Corporation	SSID: 
+
+Time: 2019-07-11 11:11:17    Mac Address: 6c:76:60:5a:06:f1    Manufacturer: KYOCERA Corporation	SSID: 
+
+Time: 2019-07-11 11:11:17    Mac Address: 6c:76:60:5a:06:f1    Manufacturer: KYOCERA Corporation	SSID: 
+
+Time: 2019-07-11 11:11:17    Mac Address: 6c:76:60:5a:06:f1    Manufacturer: KYOCERA Corporation	SSID: 
+
+Time: 2019-07-11 11:11:17    Mac Address: 6c:76:60:5a:06:f1    Manufacturer: KYOCERA Corporation	SSID: 
+
+Time: 2019-07-11 11:11:17    Mac Address: 6c:76:60:5a:06:f1    Manufacturer: KYOCERA Corporation	SSID: 
+
+Time: 2019-07-11 11:11:17    Mac Address: 6c:76:60:5a:06:f1    Manufacturer: KYOCERA Corporation	SSID: 
+
+Time: 2019-07-11 11:11:17    Mac Address: 6c:76:60:5a:06:f1    Manufacturer: KYOCERA Corporation	SSID: 
+
+Time: 2019-07-11 11:11:17    Mac Address: 6c:76:60:5a:06:f1    Manufacturer: KYOCERA Corporation	SSID: 
+
+Time: 2019-07-11 11:11:17    Mac Address: 6c:76:60:5a:06:f1    Manufacturer: KYOCERA Corporation	SSID: 
+
+Time: 2019-07-11 11:11:14    Mac Address: b8:27:eb:9a:15:87    Manufacturer: Raspberry Pi Foundation	SSID: 
+
+Current Time: 2019-07-11 11:12:08
+Time of Earliest Wifi Probe Data: 2019-07-11 11:11:53
+Time: 2019-07-11 11:12:08    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:08    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:08    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:08    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:08    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:08    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:08    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:08    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:08    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:08    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:08    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:08    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:08    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:08    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:08    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:08    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:04    Mac Address: a6:b1:15:f1:15:ee    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:04    Mac Address: a6:b1:15:f1:15:ee    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:04    Mac Address: a6:b1:15:f1:15:ee    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:04    Mac Address: a6:b1:15:f1:15:ee    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:04    Mac Address: a6:b1:15:f1:15:ee    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:04    Mac Address: a6:b1:15:f1:15:ee    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:04    Mac Address: a6:b1:15:f1:15:ee    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:04    Mac Address: a6:b1:15:f1:15:ee    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:04    Mac Address: a6:b1:15:f1:15:ee    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:04    Mac Address: a6:b1:15:f1:15:ee    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:04    Mac Address: a6:b1:15:f1:15:ee    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:04    Mac Address: a6:b1:15:f1:15:ee    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:04    Mac Address: a6:b1:15:f1:15:ee    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:04    Mac Address: a6:b1:15:f1:15:ee    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:04    Mac Address: a6:b1:15:f1:15:ee    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:04    Mac Address: a6:b1:15:f1:15:ee    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:03    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 
+
+Time: 2019-07-11 11:12:03    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 
+
+Time: 2019-07-11 11:12:03    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 
+
+Time: 2019-07-11 11:12:03    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 
+
+Time: 2019-07-11 11:12:03    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 
+
+Time: 2019-07-11 11:12:03    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 
+
+Time: 2019-07-11 11:12:03    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 
+
+Time: 2019-07-11 11:12:03    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 
+
+Time: 2019-07-11 11:11:56    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 
+
+Time: 2019-07-11 11:11:56    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 
+
+Time: 2019-07-11 11:11:56    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 
+
+Time: 2019-07-11 11:11:56    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 
+
+Time: 2019-07-11 11:11:56    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 
+
+Time: 2019-07-11 11:11:56    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 
+
+Time: 2019-07-11 11:11:56    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 
+
+Time: 2019-07-11 11:11:56    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 
+
+Time: 2019-07-11 11:11:56    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:56    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:56    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:56    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:56    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:56    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:56    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:56    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:11:53    Mac Address: 4c:57:ca:a4:72:35    Manufacturer: Apple, Inc.	SSID: BYUI_Visitor
+
+Current Time: 2019-07-11 11:12:41
+Time of Earliest Wifi Probe Data: 2019-07-11 11:12:26
+Time: 2019-07-11 11:12:41    Mac Address: a4:08:ea:5f:96:e1    Manufacturer: Murata Manufacturing Co., Ltd.	SSID: 
+
+Time: 2019-07-11 11:12:41    Mac Address: a4:08:ea:5f:96:e1    Manufacturer: Murata Manufacturing Co., Ltd.	SSID: 
+
+Time: 2019-07-11 11:12:41    Mac Address: a4:08:ea:5f:96:e1    Manufacturer: Murata Manufacturing Co., Ltd.	SSID: 
+
+Time: 2019-07-11 11:12:41    Mac Address: a4:08:ea:5f:96:e1    Manufacturer: Murata Manufacturing Co., Ltd.	SSID: 
+
+Time: 2019-07-11 11:12:41    Mac Address: a4:08:ea:5f:96:e1    Manufacturer: Murata Manufacturing Co., Ltd.	SSID: 
+
+Time: 2019-07-11 11:12:41    Mac Address: a4:08:ea:5f:96:e1    Manufacturer: Murata Manufacturing Co., Ltd.	SSID: 
+
+Time: 2019-07-11 11:12:41    Mac Address: a4:08:ea:5f:96:e1    Manufacturer: Murata Manufacturing Co., Ltd.	SSID: 
+
+Time: 2019-07-11 11:12:41    Mac Address: a4:08:ea:5f:96:e1    Manufacturer: Murata Manufacturing Co., Ltd.	SSID: 
+
+Time: 2019-07-11 11:12:41    Mac Address: a4:08:ea:5f:96:e1    Manufacturer: Murata Manufacturing Co., Ltd.	SSID: 
+
+Time: 2019-07-11 11:12:37    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:37    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:37    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:37    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:37    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:37    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:37    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:37    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:37    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:37    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:37    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:37    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:37    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:37    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:37    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:37    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: 
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:36    Mac Address: a4:02:b9:d7:c5:1c    Manufacturer: Intel Corporate	SSID: BYUI_Visitor
+
+Time: 2019-07-11 11:12:32    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:32    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:32    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:32    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:32    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:32    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:32    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:31    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:31    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:31    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:31    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:31    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:31    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:31    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:31    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:31    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:31    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:31    Mac Address: 70:4d:7b:bd:0e:15    Manufacturer: ASUSTek COMPUTER INC.	SSID: 42Y170196
+
+Time: 2019-07-11 11:12:31    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:31    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:31    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:31    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:31    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:31    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:31    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:31    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:31    Mac Address: 38:ba:f8:cb:30:72    Manufacturer: UNKNOWN	SSID: 
+
+Time: 2019-07-11 11:12:23    Mac Address: ea:2f:02:e5:a9:be    Manufacturer: UNKNOWN	SSID: 
+
